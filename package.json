@@ -1,0 +1,25 @@
+{ "name": "simple-localizer-php-pmb",
+  "version": "0.1.2",
+  "description": "Yet another tool to help with i18n in PHP. Very old legacy code, you probably shouldn't use it.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/simple-localizer-php-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/simple-localizer-php-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/simple-localizer-php-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "GPL-2.0-or-later",
+
+  "bin": { "sloc": "build.sh" },
+
+  "engines": { "php": "5.*" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
